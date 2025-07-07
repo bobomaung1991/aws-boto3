@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "Stopped instance: i-03ea70aa92200555c (test)"}
