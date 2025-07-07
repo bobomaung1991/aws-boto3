@@ -20,4 +20,3 @@ pip install -r requirements.txt
 python scripts/list_buckets.py
 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bobomaung1991/aws-boto3/pulls)
